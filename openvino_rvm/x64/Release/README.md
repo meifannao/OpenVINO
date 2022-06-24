@@ -1,3 +1,6 @@
+dll文件为OpenCV和OpenVINO所依赖的库，所以在Windows系统上安装以下方法应该可以直接运行
+
+
 # 视频推理演示
 
 openvino_rvm.exe所在文件夹
